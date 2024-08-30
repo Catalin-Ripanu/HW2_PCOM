@@ -1,5 +1,7 @@
 # HW2_PCOM
 
+A Project ilustrating the TCP and Multiplexing concepts and their applications in C.
+
 The program is divided into several components and files, each solving a specific problem. An attempt was made to implement the assignment as efficiently as possible. Thus, for all messages sent either by the client or by the server, only as many bytes as necessary will be sent to completely transmit the information and nothing more.
 
 In the source files, found in the archive, are the implementations, with the more important parts of the subscriber and server program logic being commented.
